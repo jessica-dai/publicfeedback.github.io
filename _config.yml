@@ -1,0 +1,9 @@
+title: Public Feedback
+description: A site for public feedback
+baseurl: ""
+url: "https://jessica-dai.github.io/publicfeedback.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
